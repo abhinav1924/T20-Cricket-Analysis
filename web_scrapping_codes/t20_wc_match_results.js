@@ -34,3 +34,5 @@ const allRows = $('table.engineTable > tbody > tr.data1');
 return {
   "matchSummary": matchSummary
 };
+
+console.log('hi');
